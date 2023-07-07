@@ -1,0 +1,1 @@
+[Docs spring](https://docs.spring.io/spring-security/site/docs/5.2.12.RELEASE/reference/html/oauth2.html)
